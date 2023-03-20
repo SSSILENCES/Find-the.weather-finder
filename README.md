@@ -1,7 +1,7 @@
 # Find-the.weather-finder
 ## User story
 AS A student in web development
-I WANT to create a website that tells weather outlook for multiple cities
+* I WANT to create a website that tells weather outlook for multiple cities
 SO THAT I can complete a assignment
 ## Acceptance Criteria
 GIVEN a weather dashboard with form inputs
